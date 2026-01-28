@@ -20,17 +20,17 @@
 
 # javascript-fundamentals-bootcamp
 
-javascript-fundamentals-bootcamp
-├─ 01-orientation        # 학습 방향 설정
-├─ 02-basic              # JS 핵심 문법 (변수, 함수, 배열 등)
-├─ 03-async              # 비동기 처리 (Promise, async/await)
-├─ 04-dom                # DOM과 이벤트 처리
-├─ 05-this               # this 동작 원리
-├─ 06-mini-project       # 동물 앨범 미니 프로젝트
-├─ 07-module-component   # 모듈 / 컴포넌트 분리
-├─ 08-spa-state          # 상태 관리 / SPA
-├─ 09-final-project      # Trip Wiki 최종 프로젝트
-└─ study-log.md          # 학습 회고 기록
+- javascript-fundamentals-bootcamp
+  - 01-orientation — 학습 방향 설정  
+  - 02-basic — JS 핵심 문법 (변수, 함수, 배열 등)  
+  - 03-async — 비동기 처리 (Promise, async/await)  
+  - 04-dom — DOM과 이벤트 처리  
+  - 05-this — this 동작 원리  
+  - 06-mini-project — 동물 앨범 미니 프로젝트  
+  - 07-module-component — 모듈 / 컴포넌트 분리  
+  - 08-spa-state — 상태 관리 / SPA  
+  - 09-final-project — Trip Wiki 최종 프로젝트  
+  - study-log.md — 학습 회고 기록
 
 ---
 
